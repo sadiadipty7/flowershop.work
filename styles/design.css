@@ -1,0 +1,31 @@
+.text-dec{
+    color: #272727;
+font-family: Lato;
+font-size: 80px;
+font-weight: 800;
+display: flex;
+width: 708px;
+flex-direction: column;
+}
+.banner{
+    background-color: lightpink;
+    width: 1920px;
+height: 850px;
+margin: 0;
+justify-content: space-between;}
+#p-dec{
+    color: gray;
+}
+.btn-dec{
+    border-radius: 8px;
+    background: #E55473;
+    display: inline-flex;
+    color: beige;
+padding: 20px 43px;
+align-items: flex-start;
+gap: 10px;
+border: none;
+}
+section {
+    justify-content: space-between;
+}
