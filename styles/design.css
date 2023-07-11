@@ -143,7 +143,7 @@ padding: 10px 50px;
 background-image: url(/Rectangle\ 9.png);
 width: 1440px;
 height: 449px;
-
+margin: 50px 50px;
 }
 .txt-deco{
     
@@ -178,4 +178,29 @@ margin: 100px 20px 50px 20px;
 }
 .com{
     display: flex;
+}
+/* footer decoration */
+.foot-deco{
+    width: 1922px;
+height: 449px;
+background-color: black;
+text-align: center;
+margin-top: 125px;
+}
+
+#f-txt{
+    color: #E55473;
+
+font-size: 48px;
+
+font-weight: 800;
+}
+#f-p{
+    color: #FFF;
+text-align: center;
+
+}
+.last{
+    padding: 100px 0px;
+
 }
